@@ -6,11 +6,11 @@ on Coursera Platform [Sales Analysis in Power BI: Clean and Analyze Sales Data](
 ## Table of Contents
 | No. | Topic	                        		|
 |-----|------------                       		|
-| 01  | [Main Outcome](##Main-Outcome)     		|
-| 02  | [Senario](##Senario)     				|
-| 03  | [Objectives](##Objectives)     			|
-| 04  | [Tasks List](##Tasks-List)     			|
-| 05  | [Capstone Project](##Capstone-Project)	|
+| 01  | [Main Outcome](#Main-Outcome)     		|
+| 02  | [Senario](#Senario)     				|
+| 03  | [Objectives](#Objectives)     			|
+| 04  | [Tasks List](#Tasks-List)     			|
+| 05  | [Capstone Project](#Capstone-Project)	|
 
 ## Main Outcome
 By the end of this project, learner would go through the entire data analysis life cycle, he would start off by connecting to datasets, 
