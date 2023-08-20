@@ -1,7 +1,7 @@
 # **Coursera Sales Analysis in Power BI: Clean and Analyze Sales Data Guided Project**
 
 This Repository contain all materials and files for my guided project 
-on Coursera Platform [Sales Analysis in Power BI: Clean and Analyze Sales Data]()
+on Coursera Platform [Sales Analysis in Power BI: Clean and Analyze Sales Data](https://www.coursera.org/teach/tahlil-albayanat-biistikhdam-power-bi-maealijih-warasm-bayanat-almabieat/course/overview)
 
 ## Table of Contents
 | No. | Topic	                        		|
@@ -9,10 +9,11 @@ on Coursera Platform [Sales Analysis in Power BI: Clean and Analyze Sales Data](
 | 01  | [Main Outcome](##Main-Outcome)     		|
 | 02  | [Senario](##Senario)     				|
 | 03  | [Objectives](##Objectives)     			|
-| 04  | [Capstone Project](##Capstone-Project)	|
+| 04  | [Tasks List](##Tasks-List)     			|
+| 05  | [Capstone Project](##Capstone-Project)	|
 
 ## Main Outcome
-By the end of this project, learner would go through the entire data analysis life cycle, he would start of by connecting to datasets, 
+By the end of this project, learner would go through the entire data analysis life cycle, he would start off by connecting to datasets, 
 transform and clean it, build data model, ask valuable question and then answer them through effictive data visualization 
 that would be used in building a sales report.
 
@@ -40,5 +41,8 @@ they are to deliver a detailed interactive sales report for the stackeholders su
 | 08  | Design and format charts and report pages			|
 
 ## Capstone Project
-
+Learner would go through the entire data analysis life cycle steps. 
+He would be tasked to load and transform the Facebook paid ads data comming from a cosmatics company,
+starting by connecting to the dataset, exploring and cleanining/transforming it, and finaly start building
+interactive visuals to gain insights from these campaign and answer the maneger's questions. 
 
