@@ -40,9 +40,14 @@ they are to deliver a detailed interactive sales report for the stackeholders su
 | 07  | Build interactive charts answering vital questions 	|
 | 08  | Design and format charts and report pages			|
 
+## Guided Project Final Report
+<figure>
+    <img src="https://raw.githubusercontent.com/xShaimaa/Coursera-Sales-Analysis-in-Power-BI-Clean-and-Visualize-Sales-Data-Guided-Project/main/01-Sales-Analysis-Guided-Project/report.png" alt="Sales Analysis Power BI Report">
+    <figcaption>Sales Analysis Power BI Report<figcaption>
+<figure>
+
 ## Capstone Project
 Learner would go through the entire data analysis life cycle steps. 
 He would be tasked to load and transform the Facebook paid ads data comming from a cosmatics company,
 starting by connecting to the dataset, exploring and cleanining/transforming it, and finaly start building
 interactive visuals to gain insights from these campaign and answer the maneger's questions. 
-
